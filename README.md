@@ -7,5 +7,5 @@ under the right of MITxPro project.
 # Running this file; open with HTML linked to JS 
 
 # Future Road Map; 
-1.We can now learn to use open API more often, could be useful for like Food-Tracking option.
+1.We can now learn to use open API more often, could be useful for another website functions like Food-Tracking option.
 2.Learning how to access another open API and requirements they need. 
